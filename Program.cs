@@ -27,7 +27,7 @@ namespace Dictionary
 
 
             }
-            Console.WriteLine(engTurk.ContainsKey("book")); //Does the dictionary contain "book"?
+            Console.WriteLine(engTurk.ContainsKey("book")); 
             Console.ReadLine();
 
         }
